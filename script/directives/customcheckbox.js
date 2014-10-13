@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.checkbox.directive')
+angular.module('cc.checkbox.directive', [])
     .directive('customCheckbox', function () {
         return {
             template: '<label><div class="custom-checkbox"></div><span ng-transclude></span></label>',
