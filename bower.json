@@ -1,5 +1,5 @@
 {
-	"name": "customCheckbox",
+	"name": "cc-checkbox-directive",
 	"description": "Fully customized checkbox with angular model",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
