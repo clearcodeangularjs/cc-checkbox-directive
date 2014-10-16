@@ -6,7 +6,7 @@
 	],
 	"homepage": "http://plnkr.co/edit/jmZ3PTuQSHdGDjkb4bNV?p=preview",
 	"version": "1.0.0",
-	"main": "customcheckbox.js",
+	"main": "script/directives/customcheckbox.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
