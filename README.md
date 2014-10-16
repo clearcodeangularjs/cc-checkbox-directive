@@ -5,7 +5,8 @@ Fully customized checkbox with angular model
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-checkbox-directive --save ```
+
 
 
 Usage
